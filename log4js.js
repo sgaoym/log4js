@@ -1,3 +1,7 @@
+/**
+ * @version 0.1
+ * @author sgaoym sgaoym@gmail.com
+ */
 if(!log){
     var log = {};
     log.fso     = new ActiveXObject("Scripting.FileSystemObject");
